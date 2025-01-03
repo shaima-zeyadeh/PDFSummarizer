@@ -1,0 +1,5 @@
+pytorch
+tensorflow
+streamlit
+PyPDF2
+transformers
