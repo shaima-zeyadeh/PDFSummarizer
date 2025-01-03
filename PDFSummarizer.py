@@ -3,7 +3,8 @@ import PyPDF2
 from transformers import pipeline
 import torch
 import tensorflow as tf
-from tf_keras import keras
+from tensorflow import keras
+
 
 
 # Streamlit app
