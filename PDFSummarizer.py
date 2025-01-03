@@ -2,6 +2,7 @@ import streamlit as st
 import PyPDF2
 from transformers import pipeline
 import torch
+import tensorflow as tf
 
 # Streamlit app
 def main():
