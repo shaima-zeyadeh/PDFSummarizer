@@ -2,5 +2,5 @@ streamlit
 PyPDF2
 transformers
 torch
-tensorflow == 2.12  
+tensorflow
 keras
