@@ -1,7 +1,7 @@
 import streamlit as st
 import PyPDF2
 from transformers import pipeline
-import pytorch
+import torch
 
 # Streamlit app
 def main():
