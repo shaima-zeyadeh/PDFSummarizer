@@ -1,11 +1,8 @@
 streamlit
 PyPDF2
-transformers
-torch
-keras
+tensorflow==2.16.0 
 keras==2.11.0
-tf-keras
-tensorflow==2.11.0
-tensorflow
+transformers==4.31.0
+
 
 
