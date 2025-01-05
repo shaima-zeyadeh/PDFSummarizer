@@ -3,6 +3,9 @@ PyPDF2
 tensorflow==2.16.0 
 keras==2.11.0
 transformers==4.31.0
+AutoTokenizer 
+AutoModelForSeq2SeqLM
+pdfplumber
 
 
 
