@@ -4,6 +4,8 @@ from transformers import pipeline
 import torch
 import tensorflow as tf
 from tensorflow import keras
+import nltk
+nltk.download()
 
 
 '''
